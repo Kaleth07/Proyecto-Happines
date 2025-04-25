@@ -1,0 +1,523 @@
+
+.container {
+    display: flex;
+    background-color: #f5cb00;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 50px;
+}
+
+.container img {
+    height: 50px; 
+    margin-right: auto; 
+}
+
+.nav-links {
+    display: flex;
+    gap: 30px; 
+}
+
+.container a {
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+.seccion1{
+    display: flex;
+}
+.container1{
+    margin-left: 35px;
+    font-size: 20px;
+}
+
+.title{
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    max-width: 50%;
+    transform: scaleY(2);
+    margin: 200px 0px 0px 60px;
+}
+
+.text{
+    margin: 80px 0px 0px 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 60%;
+}
+
+.button{
+    background-color: #f5cb00;
+    color: black;
+    padding: 10px 10px ;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    margin: 25px 0px 0px 60px;
+}
+
+.img1{
+    margin: 100px 0px 300px 100px;
+}
+
+.container2{
+    background-color:#E6E6E6;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    font-size: 20px;
+    width: 70%;
+    box-shadow: 10px 10px 30px 0px rgb(122, 123, 123);
+    height: 300px;
+    padding: 50px;
+}
+
+.img2{
+    display: flex;
+    justify-content: flex-end;
+    text-align: right;
+    margin: 20px;
+    gap: 80px;
+    transform: translateY(-100%);
+
+}
+
+
+
+.title1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    color: #f5cb00;
+    font-size: 40px;
+}
+
+.text1{
+    width: 25%;  
+}
+
+body{
+    margin: 0%;
+}
+
+.button2{
+    color: black;
+    padding: 15px; 
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.container3{
+    background-color: #f5cb00;
+    padding: 70px 0px 70px 90px;
+}
+
+.title2{
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    transform: scaleY(2);
+    max-width: 40%;
+    margin-top: 300px;
+    line-height: 45px;
+}
+
+.text2{
+    max-width: 80%;
+    margin-top: 20px;
+}
+
+.button3{
+    background-color: black;
+    color: white;
+    padding: 15px 35px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.img3{
+    width: 2000px;
+    height: 500px;
+    margin: 0px 200px 30px 0px;
+}
+
+.cont1{
+    display: flex;
+
+}
+
+.container4{
+    background-color: #E6E6E6;
+    display:flex;
+    margin: 100px;
+    box-shadow: 10px 10px 30px 0px rgb(122, 123, 123);
+  }
+              
+  .title3{
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    transform: scaleY(2);
+    margin:50px 0px 0px 50px;
+    color: #f5cb00;
+  }
+  
+  .text3{
+    max-width: 55%;
+    margin: 0px 0px 0px 50px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+  }
+  
+  
+  
+  .img4{
+    text-align:right;
+    padding: 0px 120px 0px 0px;
+    
+  }
+  
+  #img4{
+    margin-top:30px;
+    width: 280px;
+    height: 280px;
+    
+  
+  }
+  
+  .button4{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px ;
+    color:aliceblue;
+    padding: 10px 40px;
+    font-weight: bold;
+    margin: 30px 0px 0px 50px;
+    background-color: black;
+  }
+  
+  
+  
+  /* SESSION 5 */
+  
+  .section6{
+  justify-items: center;
+  background-color: black;
+  padding: 50px;
+  }
+  
+  .title4{
+  font-family:Arial, Helvetica, sans-serif;
+  transform: scaleY(2);
+  font-size: 20px;
+  color: #f5cb00;
+  margin: 25px;
+  }
+  
+  .text4{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    max-width: 45%;
+    color:aliceblue;
+    
+  }
+  
+  .img5{
+    margin: 20px;
+  }
+  .butt6{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px ;
+    background-color: #f5cb00; ;
+    color:black;
+    padding: 10px 40px;
+    font-weight: bold;
+  }
+  
+  
+  
+/*SESSION 6*/
+          
+  
+  .container5{
+    display:flex;
+    margin: 120px 0px 120px 90px;
+  }
+  
+  
+  #img5{
+  width: 700px;
+  height: 600px;
+  }
+  
+  
+  .title5{
+  font-family:Arial, Helvetica, sans-serif;
+  transform: scaleY(2);
+  font-size: 30px;
+  color: black;
+  margin: 200px 0px 0px 70px;
+  }
+  
+  .text5{
+    max-width: 60%;
+    margin: 30px 0px 0px 70px;
+    font-family:Arial, Helvetica, sans-serif
+  }
+  
+  .button5{
+    background-color: #f5cb00;
+    color: black;
+    border: #f5cb00;
+    padding: 15px 35px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 30px 0px 0px 70px 
+    
+  }
+  
+  
+  
+/*session 7 */
+  
+  .section8{
+    background-color: #E6E6E6;
+  
+  }
+  
+  .container6{
+    display: flex;
+    
+  }
+  
+  #tittle6{
+    font-family: Arial, Helvetica, sans-serif;
+    transform: scaleY(2);
+    font-size: 45px;
+    font-weight: bold;
+    max-width: 70%;
+    margin: 50% 0px 20px 130px;
+    line-height: 40px;
+    color: black;
+  
+  }
+  
+  .text6{
+    margin: 70px 0px 0px 130px;
+    max-width: 60%;
+    color: black;
+  }
+  .img7{
+    margin: 120px 80px;
+    height: 700px;
+    width: 700px;
+  }
+  
+  .button6{
+    font-size: 18px;
+    color: black;
+    background-color: #f5cb00;
+    border-color: #f5cb00;
+    padding: 10px 45px;
+    font-weight: bold;
+    margin: 55px 0px 0px 130px;
+    
+  }
+  
+  /*SESSION 8 */
+  
+  .container7{
+    display: flex;
+    background-color: white;
+  }
+  
+  .fomurlario{
+    background-color: black;
+    margin: 130px 0px 130px 140px;
+    padding: 50px 50px 30px 50px;
+    width: 60%;
+  }
+  
+  
+  .colorLetra{
+    color:aliceblue;
+    background-color: black;
+  }
+  
+  
+  .colorInput{
+    background-color: black;
+    color:aliceblue;
+    border-color: aliceblue;
+  }
+  
+  .flexNameSurname{
+   display: flex;
+   gap: 90px;
+  }
+    /*SESSION 9*/
+  .Inputname{
+    width: 130%;
+    height: 30px;
+    background-color: black;
+    border-color: azure;
+    color: aliceblue;
+  }
+  
+  .InputSurname{
+    width: 130%;
+    height: 30px;
+    background-color: black;
+    border-color: azure;
+    color: aliceblue;
+    
+  }
+  
+  .Inputemail{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    border-color: azure;
+    color: aliceblue;
+  }
+  
+  .Inputpassword{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    border-color: azure;
+    color: aliceblue;
+  }
+  
+  .Inputmessage{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    border-color: azure;
+    color: aliceblue;
+  }
+  
+  
+  .container6{
+    color: aliceblue;
+    text-align:left;
+    
+  }
+  
+  .tittle7{
+    font-family:Arial, Helvetica, sans-serif;
+    color:#f5cb00;
+    font-size: 20px;
+    transform: scaleY(2);
+    max-width: 38%;
+    margin: 35% 0px 0px 110px
+  
+  }
+  
+  .text7{
+    font-size: 20px;
+    color: white;
+  }
+  .text7{
+    margin: 50px 0px 0px 110px;
+    max-width: 50%;
+  }
+  
+  
+  .button7{
+    border: black;
+    margin:50px 0px 0px 110px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 12px 55px;
+    background-color: black;
+    color: aliceblue;
+    
+  }
+    
+    /* SESSION 10*/
+  
+  .section10{
+    background-color: #f5cb00;
+    justify-items: center;
+    padding: 45px;
+  }
+  
+  .tittle8{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:800;
+    transform: scaleY(2);
+    font-size: 25px ;
+    
+  }
+  
+  .text8{
+    font-size: 25px;
+  }
+  .button8{
+    font-size: 20px;
+    border: black;
+    padding: 13px 50px;
+    margin:35px 0px 10px 0px;
+    font-weight: bold;
+    background-color: black;
+    color: aliceblue;
+  }
+  
+     /* SESSION 11 */
+  
+  .container7{
+    background-color: black;
+    padding: 60px;
+    }
+  
+  .text8{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    color:#f5cb00;
+    line-height: 5px;
+    font-weight: bold;
+  }
+  
+  .tex1{
+    margin: 100px 0px 50px 10px;
+  }
+  
+  .tex2{
+    margin: 100px 0px 50px 50px;
+  }
+  
+  
+  
+  
+ /* SESSION 12 */
+  
+  .finalPG{
+    color:#f5cb00;
+    background-color: black;
+    padding: 0px 60px 60px 60px;
+    
+  
+  }
+  
+  .flexfooter{
+    display: flex;
+    justify-content: space-between ;
+    border-style: solid;
+    border-width: 2px 0px 0px 0px;
+    padding: 60px 0px 0px 0px;
+    border-color: aliceblue;
+  }
+  
+  .texfooter{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+  }
+  
+  
+  .colorimg{
+    filter: invert(70%) sepia(100%) saturate(900%) hue-rotate(0deg);
+    margin: 0px 10px;
+  }
+  
